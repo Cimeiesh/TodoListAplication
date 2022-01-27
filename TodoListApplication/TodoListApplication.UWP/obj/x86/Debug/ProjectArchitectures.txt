@@ -1,0 +1,1 @@
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication.UWP\TodoListApplication.UWP.csproj;x86

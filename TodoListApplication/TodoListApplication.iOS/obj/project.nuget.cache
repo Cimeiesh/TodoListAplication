@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s2tG7gNM8Ra4rDkOTm8X32PeqjJ72+LI1TQXnC6Xqi+CGA+xc/xQ54YiOxaGcPE3PnKiXtds+MI2vrtCx0W9+A==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\C#\\TodoListApplication\\TodoListApplication\\TodoListApplication.iOS\\TodoListApplication.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sanna\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sanna\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Sanna\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Sanna\\.nuget\\packages\\xamarin.forms.inputkit\\3.7.2\\xamarin.forms.inputkit.3.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

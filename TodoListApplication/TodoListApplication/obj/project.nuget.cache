@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UfpHB0jwvpp96QPY/FuYBp4sUl4eT2HT4vr8oLacCWVE2G5VEDc2D+v1qnmsUn8s8F/SwAqZgeNmFGLhJ/d1RQ==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\C#\\TodoListApplication\\TodoListApplication\\TodoListApplication\\TodoListApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sanna\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sanna\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sanna\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sanna\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Sanna\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Sanna\\.nuget\\packages\\xamarin.forms.inputkit\\3.7.2\\xamarin.forms.inputkit.3.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

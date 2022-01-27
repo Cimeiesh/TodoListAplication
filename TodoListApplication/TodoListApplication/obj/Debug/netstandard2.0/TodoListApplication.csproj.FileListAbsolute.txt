@@ -1,0 +1,15 @@
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\bin\Debug\netstandard2.0\TodoListApplication.deps.json
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\bin\Debug\netstandard2.0\TodoListApplication.dll
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\bin\Debug\netstandard2.0\ref\TodoListApplication.dll
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\bin\Debug\netstandard2.0\TodoListApplication.pdb
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\TodoListApplication.csproj.AssemblyReference.cache
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\TodoListApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\TodoListApplication.AssemblyInfoInputs.cache
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\TodoListApplication.AssemblyInfo.cs
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\TodoListApplication.csproj.CoreCompileInputs.cache
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\TodoListApplication.dll
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\ref\TodoListApplication.dll
+C:\GitHub\C#\TodoListApplication\TodoListApplication\TodoListApplication\obj\Debug\netstandard2.0\TodoListApplication.pdb
